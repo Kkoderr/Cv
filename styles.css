@@ -1,0 +1,10 @@
+table.center{margin-left: auto;margin-right: auto;}
+body{
+    background-color: #E3F4F4;
+}
+hr{
+    border-color: yellow;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 10%;
+}
